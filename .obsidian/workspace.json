@@ -11,14 +11,6 @@
             "id": "d4205ccce4aaa472",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "088c88130714de9d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Prueba Obsidian.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "088c88130714de9d",
+  "active": "d4205ccce4aaa472",
   "lastOpenFiles": [
-    "Prueba Obsidian.md",
-    "README.md"
+    "README.md",
+    "Prueba Obsidian.md"
   ]
 }
