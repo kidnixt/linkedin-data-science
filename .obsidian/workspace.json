@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
+                "file": "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/Olvídate del pasado con NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
+                "file": "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/Olvídate del pasado con NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
+                "file": "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/Olvídate del pasado con NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md"
+                "file": "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/Olvídate del pasado con NoSQL.md"
               }
             }
           },
@@ -136,13 +136,22 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "298c35f8f632138b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,18 +165,19 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b7669c17c75b4a3c",
+  "active": "298c35f8f632138b",
   "lastOpenFiles": [
+    "Prueba Obsidian.md",
+    "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/Olvídate del pasado con NoSQL.md",
+    "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.4 Aborda los problemas de los datos masivos.md",
+    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.3 Crea Conocimiento sobre el negocio.md",
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.2 Los paquetes estadísticos y las herramientas informáticas.md",
-    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.1 Organiza la información con los datos estructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.4 Criba los datos que no utilices.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.1 Haz conexiones con bases de datos relacionales.md",
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.1 Define una práctica multidisciplinar con muchos significados.md",
-    "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.4 Aborda los problemas de los datos masivos.md",
-    "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.3 Olvídate del pasado con NoSQL.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.2 Guarda la información en almacenes de datos mediante ETL.md",
     "images/Pasted image 20231221234103.png",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos",
@@ -181,7 +191,6 @@
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos",
     "2023-12-21.md",
     "1/1.1 Qué es la ciencia de datos",
-    "Prueba Obsidian.md",
     "Untitled.md",
     "1. Aprende data science Conceptos básicos",
     "README.md"
