@@ -56,7 +56,7 @@
   "autoSuggestOptions": {
     "customInstructEnabled": false,
     "customInstruct": "continue the follwing text:\n{{query}}",
-    "isEnabled": false,
+    "isEnabled": true,
     "delay": 300,
     "numberOfSuggestions": 5,
     "triggerPhrase": "  ",
@@ -84,7 +84,7 @@
     }
   },
   "LLMProviderOptionsKeysHashed": {
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-6ZBFNghH0BtjjfoQ6BkpT3BlbkFJJAxvz35iVa7KyL52OqSW"
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-LQjer9NjDKtgyQu01zbvT3BlbkFJyNeEpBmzOi5nhLkm8DuA"
   },
-  "api_key_encrypted": "__@#key_prefix#@__sk-6ZBFNghH0BtjjfoQ6BkpT3BlbkFJJAxvz35iVa7KyL52OqSW"
+  "api_key_encrypted": "__@#key_prefix#@__sk-LQjer9NjDKtgyQu01zbvT3BlbkFJyNeEpBmzOi5nhLkm8DuA"
 }
