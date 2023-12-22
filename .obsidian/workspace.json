@@ -23,9 +23,11 @@
             "id": "5008839faea7b78d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20231222144926.png"
+                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.1 Empieza con la estadística descriptiva.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20231222144926.png",
+                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.1 Empieza con la estadística descriptiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20231222144926.png",
+                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.1 Empieza con la estadística descriptiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20231222144926.png"
+                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.1 Empieza con la estadística descriptiva.md"
               }
             }
           }
@@ -159,12 +161,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "56e039c59f48d09a",
+  "active": "5008839faea7b78d",
   "lastOpenFiles": [
     "Prueba Obsidian.md",
+    "README.md",
+    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.1 Empieza con la estadística descriptiva.md",
+    "images/Pasted image 20231222144926.png",
+    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico",
     "images/Pasted image 20231222144717.png",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.4 Criba los datos que no utilices.md",
-    "images/Pasted image 20231222144926.png",
     "images/Pasted image 20231222144603.png",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
     "images/Pasted image 20231222144421.png",
@@ -192,7 +197,6 @@
     "2023-12-21.md",
     "1/1.1 Qué es la ciencia de datos",
     "Untitled.md",
-    "1. Aprende data science Conceptos básicos",
-    "README.md"
+    "1. Aprende data science Conceptos básicos"
   ]
 }
