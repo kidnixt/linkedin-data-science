@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "error getting embeddings"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Generame una nota en base a esta [[JSON]] "
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Generame una nota en base a esta [[JSON]] ",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[JSON]]---\n---END NOTE---\n"
+    }
+  ]
+]
