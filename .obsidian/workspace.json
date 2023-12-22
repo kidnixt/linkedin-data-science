@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.5 Combina las técnicas de analítica predictiva.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.5 Combina las técnicas de analítica predictiva.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.5 Combina las técnicas de analítica predictiva.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.5 Combina las técnicas de analítica predictiva.md"
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md"
               }
             }
           }
@@ -160,10 +160,22 @@
   },
   "active": "b7669c17c75b4a3c",
   "lastOpenFiles": [
-    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.4 La correlación no implica causalidad.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Escenarios de la minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.3 Qué es la minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.1 Necesidad de explorar datos.md",
+    "images/Pasted image 20231222155743.png",
+    "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión",
+    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación",
+    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos",
+    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos",
+    "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos",
+    "2. Data scientist Minería de datos esencial",
     "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.5 Combina las técnicas de analítica predictiva.md",
+    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.4 La correlación no implica causalidad.md",
     "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.3 Busca correlaciones para mejorar resultados.md",
-    "Pasted image 20231222155743.png",
     "Pasted image 20231222155715.png.md",
     "Pasted image 20231222155710.png",
     "images/Pasted image 20231222150246.png",
@@ -193,12 +205,6 @@
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.1 Define una práctica multidisciplinar con muchos significados.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.2 Guarda la información en almacenes de datos mediante ETL.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos",
-    "images",
-    "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales",
-    "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos",
-    "2023-12-21.md",
-    "1/1.1 Qué es la ciencia de datos",
-    "Untitled.md",
-    "1. Aprende data science Conceptos básicos"
+    "2023-12-21.md"
   ]
 }
