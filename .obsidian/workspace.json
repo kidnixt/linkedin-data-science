@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "205bd62977f61f94",
+        "id": "e697c611369fb799",
         "type": "tabs",
         "children": [
           {
-            "id": "d4205ccce4aaa472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.4 Aborda los problemas de los datos masivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fa00d4b5a01de74",
+            "id": "b7669c17c75b4a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f4a95c3764a14ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caeaea21de6e2eee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.2 Los paquetes estadísticos y las herramientas informáticas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc7d89aac5eab56e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.3 Crea Conocimiento sobre el negocio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +128,21 @@
                 "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md"
               }
             }
+          },
+          {
+            "id": "5ebcb3385d9b7004",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,23 +151,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0f4a95c3764a14ec",
+  "active": "b7669c17c75b4a3c",
   "lastOpenFiles": [
+    "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.3 Crea Conocimiento sobre el negocio.md",
+    "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.2 Los paquetes estadísticos y las herramientas informáticas.md",
+    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.1 Organiza la información con los datos estructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.4 Criba los datos que no utilices.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.1 Haz conexiones con bases de datos relacionales.md",
-    "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.3 Crea Conocimiento sobre el negocio.md",
-    "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.2 Los paquetes estadísticos y las herramientas informáticas.md",
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.1 Define una práctica multidisciplinar con muchos significados.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.4 Aborda los problemas de los datos masivos.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.3 Olvídate del pasado con NoSQL.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.2 Guarda la información en almacenes de datos mediante ETL.md",
     "images/Pasted image 20231221234103.png",
-    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.3 Recopila datos no estructurados.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos",
     "images/Pasted image 20231221213110.png",
     "Pasted image 20231221213050.png",
