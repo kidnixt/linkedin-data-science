@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
-                "mode": "source",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md"
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md"
               }
             }
           }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +161,13 @@
   },
   "active": "b7669c17c75b4a3c",
   "lastOpenFiles": [
-    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Escenarios de la minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/Untitled.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.1 Necesidad de explorar datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.7 Implicaciones tecnológicas en proyectos de minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.5 Escenarios de la minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.3 Qué es la minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md",
-    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.1 Necesidad de explorar datos.md",
     "images/Pasted image 20231222155743.png",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación",
@@ -203,8 +206,6 @@
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.2 Los paquetes estadísticos y las herramientas informáticas.md",
     "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.1 Haz conexiones con bases de datos relacionales.md",
     "1. Aprende data science Conceptos básicos/1.1 Qué es la ciencia de datos/1.1.1 Define una práctica multidisciplinar con muchos significados.md",
-    "1. Aprende data science Conceptos básicos/1.2 Trabaja con bases de datos Relacionales/1.2.2 Guarda la información en almacenes de datos mediante ETL.md",
-    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos",
-    "2023-12-21.md"
+    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos"
   ]
 }
