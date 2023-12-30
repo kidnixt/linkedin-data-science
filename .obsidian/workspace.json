@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md"
+                "file": "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md"
               }
             }
           }
@@ -161,13 +161,13 @@
   },
   "active": "b7669c17c75b4a3c",
   "lastOpenFiles": [
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.5 Escenarios de la minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.3 Qué es la minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.2 Mecanismos de Exploración de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.1 Necesidad de explorar datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.7 Implicaciones tecnológicas en proyectos de minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.5 Escenarios de la minería de datos.md",
     "images/Pasted image 20231222155743.png",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación",
