@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
+                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
+                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
+                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md"
+                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.2 Algoritmo de Clústering para segmentación de datos.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.1 Introducción a algoritmos de minería de datos con Microsoft.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
-    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
     "Untitled.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.4 Contenido en las estructuras de minería de datos.md",
