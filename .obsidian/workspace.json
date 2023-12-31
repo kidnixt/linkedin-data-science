@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md"
+                "file": "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.1 De qué está compuesta la minería de datos.md",
     "images/Pasted image 20231231150031.png",
     "Pasted image 20231231145951.png.md",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.5 Modelos de minería de datos.md",
     "images/Pasted image 20231222150246.png",
     "Pasted image 20231231145949.png",
