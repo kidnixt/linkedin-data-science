@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md"
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md",
-    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.2 Algoritmo de Clústering para segmentación de datos.md",
