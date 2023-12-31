@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md"
+                "file": "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md"
               }
             }
           }
@@ -151,10 +151,13 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md",
+    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
+    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md",
+    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.2 Algoritmo de Clústering para segmentación de datos.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.1 Introducción a algoritmos de minería de datos con Microsoft.md",
-    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
     "Untitled.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.4 Contenido en las estructuras de minería de datos.md",
@@ -188,9 +191,6 @@
     "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos",
     "2. Data scientist Minería de datos esencial",
-    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.5 Combina las técnicas de analítica predictiva.md",
-    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.4 La correlación no implica causalidad.md",
-    "1. Aprende data science Conceptos básicos/1.4 Aplica el análisis estadístico/1.4.3 Busca correlaciones para mejorar resultados.md",
     "Pasted image 20231222155710.png",
     "Pasted image 20231222155715.png",
     "images/Pasted image 20231222154745.png",
