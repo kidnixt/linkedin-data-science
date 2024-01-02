@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md",
+                "file": "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md"
+                "file": "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md"
               }
             }
           }
@@ -151,11 +151,13 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.2 Aprender sobre campos y tipos de datos.md",
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.1 Aprender a identificar los datos.md",
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
+    "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.2 Tipos de Algoritmos de minería de datos.md",
+    "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.4 Aprender la sintaxis para mejorar la comunicación.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md",
+    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.1 Aprender a identificar los datos.md",
+    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.2 Aprender sobre campos y tipos de datos.md",
+    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
     "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos/3.1.4 Descubrir las habilidades del analista de datos.md",
     "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos/3.1.3 Entender los roles en el análisis de datos.md",
     "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos/3.1.2 Descubrir si ya eres analista.md",
@@ -185,9 +187,7 @@
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.4 Contenido en las estructuras de minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.5 Modelos de minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.1 De qué está compuesta la minería de datos.md",
     "images/Pasted image 20231231150031.png",
-    "Pasted image 20231231145951.png.md",
     "images/Pasted image 20231222150246.png",
     "Pasted image 20231231145949.png",
     "Pasted image 20231231145951.png",
