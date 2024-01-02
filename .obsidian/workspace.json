@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md"
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/Lista de campos que tengo y necesito_Final.docx",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/LearnData.accdb",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/Aprender a interpretar datos_PDF.pdf",
@@ -158,7 +159,6 @@
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 Entender las uniones entre datos.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/ejercicio 3.2.5.pbix",
@@ -180,7 +180,6 @@
     "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos/3.1.1 Definición de análisis de datos y analista de datos.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos",
     "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos",
-    "3. Aprende análisis de datos",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.2 Algoritmo de Regresión Lineal.md",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.1 Algoritmo de serie de tiempos.md",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.3 Algoritmo de Naïve Bayes.md",
