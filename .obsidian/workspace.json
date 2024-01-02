@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27ab8cb2380a92d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,8 +160,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5008839faea7b78d",
+  "active": "27ab8cb2380a92d4",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.2 Algoritmo de Regresión Lineal.md",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.3 Algoritmo de Regresión Logística.md",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.1 Algoritmo de serie de tiempos.md",
@@ -182,7 +194,6 @@
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.7 Implicaciones tecnológicas en proyectos de minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.6 Mitos acerca de la minería de datos.md",
     "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.5 Escenarios de la minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.1 Introducción a la minería de datos/2.1.4 Objetivos de la minería de datos.md",
     "images/Pasted image 20231222155743.png",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación",
