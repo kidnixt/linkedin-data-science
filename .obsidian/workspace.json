@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md"
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md"
               }
             }
           }
@@ -151,8 +151,15 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 Entender las uniones entre datos.md",
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
+    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/ejercicio 3.2.5.pbix",
-    "Pasted image 20240102192606.png",
+    "images/Pasted image 20240102192606.png",
     "images/Pasted image 20240102192329.png",
     "images/Pasted image 20240102192039.png",
     "images/Pasted image 20240102191808.png",
@@ -160,7 +167,6 @@
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/Obtener datos que no existen.xlsx",
     "3. Aprende análisis de datos/archivos_base_analisis_datos_update_feb.zip",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.3 Algoritmo de Regresión Logística.md",
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.4 Aprender la sintaxis para mejorar la comunicación.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.2 Aprender sobre campos y tipos de datos.md",
@@ -183,10 +189,6 @@
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.1 Introducción a algoritmos de minería de datos con Microsoft.md",
     "Untitled.md",
     "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.3 Estructuras de minería de datos, tipos de datos.md",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.4 Contenido en las estructuras de minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.5 Modelos de minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.2 Estructuras y modelos de minería de datos.md",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos/2.3.1 De qué está compuesta la minería de datos.md",
     "images/Pasted image 20231231150031.png",
     "images/Pasted image 20231222150246.png",
     "Pasted image 20231231145949.png",
@@ -194,8 +196,6 @@
     "images/Pasted image 20231230190244.png",
     "images/Pasted image 20231230185957.png",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión",
-    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación",
-    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos",
-    "2. Data scientist Minería de datos esencial/2.3 Componentes de la minería de datos"
+    "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación"
   ]
 }
