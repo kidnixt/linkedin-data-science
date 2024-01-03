@@ -1,0 +1,3 @@
+Las personas no se consideran empleados hasta que se introducen sus datos en la tabla personal del sistema de Recursos Humanos
+
+Un empleado no puede ver vídeos hasta que sus datos no se hayan procesado por completo en el sistema de personal
