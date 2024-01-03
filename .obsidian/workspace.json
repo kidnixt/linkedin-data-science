@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
+                "file": "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
+                "file": "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
+                "file": "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md"
+                "file": "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md"
               }
             }
           }
@@ -192,6 +192,13 @@
   },
   "active": "8d734fc163185581",
   "lastOpenFiles": [
+    "Pasted image 20240103183821.png",
+    "Pasted image 20240103183759.png",
+    "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
+    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 ejercicio/LearnData.laccdb",
+    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 ejercicio/LearnData.accdb",
+    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 ejercicio",
+    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/New folder",
     "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.1 Aprender a identificar los datos.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
@@ -211,12 +218,8 @@
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/New folder",
     "images/Pasted image 20240103181438.png",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 ejercicio/Lista de Fechas para reutilizar.xlsx",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 ejercicio",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 Reutilizar Datos.md",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 ejercicio/21012019_Videos_Original_Final.csv",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 ejercicio/Videos_ArchivoTrabajo_Final.xlsx",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 ejercicio",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.3 Entender verdades o certezas.md",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.2 Aprender sobre el gobierno de los datos.md",
@@ -228,15 +231,12 @@
     "images/Pasted image 20240102230057.png",
     "images/Pasted image 20240102220517.png",
     "images/Pasted image 20240102225501.png",
-    "images/Pasted image 20240102220456.png",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
     "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.3 Algoritmo de Regresión Logística.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.4 Aprender la sintaxis para mejorar la comunicación.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.3 Lidiar con los datos que no tenemos.md",
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.2 Aprender sobre campos y tipos de datos.md",
-    "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos/3.1.4 Descubrir las habilidades del analista de datos.md",
-    "3. Aprende análisis de datos/3.1 Comenzar con el análisis de datos/3.1.3 Entender los roles en el análisis de datos.md"
+    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.2 Aprender sobre campos y tipos de datos.md"
   ]
 }
