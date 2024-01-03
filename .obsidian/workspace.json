@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
+                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
+                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
+                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md"
+                "file": "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 Reutilizar Datos.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 ejercicio/21012019_Videos_Original_Final.csv",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 ejercicio/Videos_ArchivoTrabajo_Final.xlsx",
@@ -168,7 +169,6 @@
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/New folder",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.4 Construir conjuntos de datos para filtrar datos.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.3 Entender verdades o certezas.md",
