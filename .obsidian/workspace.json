@@ -11,9 +11,11 @@
             "id": "5008839faea7b78d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240102225841.png"
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240102225841.png",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240102225841.png",
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240102225841.png"
+                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md"
               }
             }
           }
@@ -157,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56e039c59f48d09a",
+  "active": "5008839faea7b78d",
   "lastOpenFiles": [
-    "images/Pasted image 20240102230057.png",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 Entender las uniones entre datos.md",
     "images/Pasted image 20240102225841.png",
+    "images/Pasted image 20240102230057.png",
     "images/Pasted image 20240102220517.png",
     "images/Pasted image 20240102225501.png",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 ejercicio/LearnData.laccdb",
