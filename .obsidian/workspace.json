@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
+                "file": "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
+                "file": "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
+                "file": "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md"
+                "file": "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md"
               }
             }
           }
@@ -161,6 +161,12 @@
   },
   "active": "5008839faea7b78d",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
+    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.3 Entender verdades o certezas.md",
+    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.2 Aprender sobre el gobierno de los datos.md",
+    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md",
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
+    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 Entender las uniones entre datos.md",
     "images/Pasted image 20240102225841.png",
@@ -181,9 +187,7 @@
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 ejercicio/LearnData.laccdb",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 ejercicio/~$Aprender a encontrar datos.xlsx",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 ejercicio/LearnData.accdb",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 ejercicio/Aprender a encontrar datos.xlsx",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
     "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
     "images/Pasted image 20240102192606.png",
     "images/Pasted image 20240102192329.png",
@@ -202,9 +206,6 @@
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.2 Algoritmo de Redes Neuronales.md",
     "2. Data scientist Minería de datos esencial/2.5 Algoritmos de Mineria de Datos para Clasificación/2.5.1 Algoritmo de Árbol de Decisión.md",
     "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.4 Algoritmo para el análisis de secuencias.md",
-    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md",
-    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.2 Algoritmo de Clústering para segmentación de datos.md",
-    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.1 Introducción a algoritmos de minería de datos con Microsoft.md",
-    "Untitled.md"
+    "2. Data scientist Minería de datos esencial/2.4 Algoritmos de Minería de datos/2.4.3 Algoritmo de reglas de asociación.md"
   ]
 }
