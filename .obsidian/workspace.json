@@ -51,11 +51,9 @@
             "id": "c3e406b3bd1d0426",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20240103210906.png"
               }
             }
           },
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
+                "file": "images/Pasted image 20240103210906.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
+                "file": "images/Pasted image 20240103210906.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md"
+                "file": "images/Pasted image 20240103210906.png"
               }
             }
           }
@@ -200,17 +198,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3e406b3bd1d0426",
+  "active": "56e039c59f48d09a",
   "lastOpenFiles": [
-    "Pasted image 20240103210718.png",
-    "Pasted image 20240103210513.png",
-    "Pasted image 20240103210339.png",
+    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio/graficas simples.pbix",
+    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
+    "images/Pasted image 20240103210906.png",
+    "images/Pasted image 20240103210718.png",
+    "images/Pasted image 20240103210513.png",
+    "images/Pasted image 20240103210339.png",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio/Datos para informe.xlsx",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/New folder",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
     "images/Pasted image 20240103183759.png",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/Untitled",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista",
@@ -230,11 +230,9 @@
     "images/Pasted image 20240103182336.png",
     "images/Pasted image 20240103182046.png",
     "images/Pasted image 20240103182032.png",
-    "images/Pasted image 20240103182105.png",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.1 Entender las reglas de negocio.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.4 Construir conjuntos de datos para filtrar datos.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
-    "images/Pasted image 20240103181438.png",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
     "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 Reutilizar Datos.md",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
