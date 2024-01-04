@@ -51,9 +51,11 @@
             "id": "c3e406b3bd1d0426",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240103210906.png"
+                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240103210906.png",
+                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240103210906.png",
+                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240103210906.png"
+                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md"
               }
             }
           }
@@ -198,11 +200,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56e039c59f48d09a",
+  "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
+    "images/Pasted image 20240103210906.png",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio/graficas simples.pbix",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
-    "images/Pasted image 20240103210906.png",
     "images/Pasted image 20240103210718.png",
     "images/Pasted image 20240103210513.png",
     "images/Pasted image 20240103210339.png",
@@ -218,7 +220,6 @@
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio/Crear Documentacio╠ün_Inicio.docx",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio/Crear Documentacio╠ün_Final.docx",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/New folder",
     "images/Pasted image 20240103183821.png",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
