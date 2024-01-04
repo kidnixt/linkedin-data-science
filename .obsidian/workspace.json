@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
+                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
+                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
+                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md"
+                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md"
               }
             }
           }
@@ -202,6 +202,18 @@
   },
   "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 ejercicio/3.8.1 ejercicio.pbix",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 ejercicio/Crear Tabla dina╠ümica _Inicio.pbix",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 ejercicio",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/New folder",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.2 Modificar tablas dinámicas para que sean más fáciles de leer.md",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 Construir tablas dinámicas básicas.md",
+    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas",
+    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
+    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 ejercicio",
+    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/New folder",
     "images/Pasted image 20240103210906.png",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio/graficas simples.pbix",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
@@ -210,16 +222,8 @@
     "images/Pasted image 20240103210339.png",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio/Datos para informe.xlsx",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 ejercicio",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/New folder",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
     "images/Pasted image 20240103183759.png",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/Untitled",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio/Proceso a Documentar.xlsx",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio/Crear Documentacio╠ün_Inicio.docx",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio/Crear Documentacio╠ün_Final.docx",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 ejercicio",
     "images/Pasted image 20240103183821.png",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
@@ -243,9 +247,6 @@
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
     "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 Entender las uniones entre datos.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.1 Aprender a interpretar los datos existentes.md",
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
-    "2. Data scientist Minería de datos esencial/2.6 Algoritmos de Regresión/2.6.3 Algoritmo de Regresión Logística.md"
+    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md"
   ]
 }
