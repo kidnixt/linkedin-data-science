@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
+                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
+                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
+                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md"
+                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md"
               }
             }
           }
@@ -202,24 +202,29 @@
   },
   "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio/Extraer y Dividir texto_Inicio.pbix",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/New folder",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 Transformar datos con Excel.md",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/E073D920",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/~$Accesos_directos y Rangos_con_nombre_Inicio.xlsx",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/Accesos_directos y Rangos_con_nombre_Inicio.xlsx",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.4 Transponer datos de una tabla.md",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
+    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel",
     "images/Pasted image 20240103232541.png",
     "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 ejercicio/3.8.3 ejercicio.pbix",
     "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 ejercicio/3.8.2 ejercicio.pbix",
     "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 ejercicio",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/New folder",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.2 ejercicio/3.8.2 ejercicio.pbix",
     "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.2 Modificar tablas dinámicas para que sean más fáciles de leer.md",
     "images/Pasted image 20240103231230.png",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.2 ejercicio/3.8.1 ejercicio.pbix",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.2 ejercicio",
     "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 Construir tablas dinámicas básicas.md",
     "images/Pasted image 20240103222044.png",
     "images/Pasted image 20240103221713.png",
     "images/Pasted image 20240103221520.png",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 ejercicio/3.8.1 ejercicio.pbix",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 ejercicio/Crear Tabla dina╠ümica _Inicio.pbix",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 ejercicio",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
     "images/Pasted image 20240103210906.png",
@@ -228,7 +233,6 @@
     "images/Pasted image 20240103210513.png",
     "images/Pasted image 20240103210339.png",
     "images/Pasted image 20240103183759.png",
-    "images/Pasted image 20240103183821.png",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
@@ -243,10 +247,6 @@
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.3 Entender verdades o certezas.md",
     "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.2 Aprender sobre el gobierno de los datos.md",
-    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.5 Limpieza de datos.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.4 Entender los datos y el flujo de trabajo.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.3 Entender las uniones entre datos.md",
-    "3. Aprende análisis de datos/3.3 Cosas que hay que entender al iniciar el análisis de datos/3.3.2 Encontrar datos existentes.md"
+    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md"
   ]
 }
