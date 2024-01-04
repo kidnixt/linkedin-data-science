@@ -51,11 +51,9 @@
             "id": "c3e406b3bd1d0426",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20240103235025.png"
               }
             }
           },
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
+                "file": "images/Pasted image 20240103235025.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
+                "file": "images/Pasted image 20240103235025.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md"
+                "file": "images/Pasted image 20240103235025.png"
               }
             }
           }
@@ -200,10 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3e406b3bd1d0426",
+  "active": "56e039c59f48d09a",
   "lastOpenFiles": [
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
+    "images/Pasted image 20240103235025.png",
+    "images/Pasted image 20240103235011.png",
+    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio/Extraer y Dividir texto_Inicio.pbix",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/New folder",
@@ -230,8 +230,6 @@
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
     "images/Pasted image 20240103210718.png",
     "images/Pasted image 20240103210513.png",
-    "images/Pasted image 20240103210339.png",
-    "images/Pasted image 20240103183759.png",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
     "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
