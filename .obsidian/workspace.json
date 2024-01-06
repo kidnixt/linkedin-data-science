@@ -51,9 +51,11 @@
             "id": "c3e406b3bd1d0426",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240103235025.png"
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240103235025.png",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240103235025.png",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240103235025.png"
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md"
               }
             }
           }
@@ -198,52 +200,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56e039c59f48d09a",
+  "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
+    "images/Pasted image 20240106030602.png",
+    "README.md",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
     "images/Pasted image 20240103235025.png",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos",
+    "5. Fundamentos de Data Science, Conceptos básicos",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio/3.9.3 ejercicio.pbix",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.3 Agrupar vs eliminar duplicados.md",
     "images/Pasted image 20240103235011.png",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.2 Aprender a extraer y dividir texto.md",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio/Extraer y Dividir texto_Inicio.pbix",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/New folder",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio/Extraer y Dividir texto_Inicio.pbix",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 Transformar datos con Excel.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio/Extraer y Dividir texto_Inicio.pbix",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.1 Transformar datos con Excel.md",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/E073D920",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/~$Accesos_directos y Rangos_con_nombre_Inicio.xlsx",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/Accesos_directos y Rangos_con_nombre_Inicio.xlsx",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.4 Transponer datos de una tabla.md",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.4 Transponer datos de una tabla.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
     "images/Pasted image 20240103232541.png",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.2 Modificar tablas dinámicas para que sean más fáciles de leer.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.8 Tablas dinámicas/3.8.2 Modificar tablas dinámicas para que sean más fáciles de leer.md",
     "images/Pasted image 20240103231230.png",
-    "3. Aprende análisis de datos/3.8 Tablas dinámicas/3.8.1 Construir tablas dinámicas básicas.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.8 Tablas dinámicas/3.8.1 Construir tablas dinámicas básicas.md",
     "images/Pasted image 20240103222044.png",
     "images/Pasted image 20240103221713.png",
     "images/Pasted image 20240103221520.png",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
     "images/Pasted image 20240103210906.png",
-    "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
     "images/Pasted image 20240103210718.png",
     "images/Pasted image 20240103210513.png",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.2 Crear un diccionario de datos.md",
     "1. Aprende data science Conceptos básicos/1.3 Conoce los distintos tipos de datos/1.3.2 Comparte datos semiestructurados.md",
     "2. Data scientist Minería de datos esencial/2.2 Proceso de Minería de datos/2.2.1 Modelo CRISP en minería de datos.md",
-    "3. Aprende análisis de datos/3.2 Fundamentos de la comprensión de datos/3.2.1 Aprender a identificar los datos.md",
-    "3. Aprende análisis de datos/3.6 Trabajar con datos de empresa/3.6.1 Entender las reglas de negocio.md",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.4 Construir conjuntos de datos para filtrar datos.md",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
-    "3. Aprende análisis de datos/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 Reutilizar Datos.md",
-    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
-    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.3 Entender verdades o certezas.md",
-    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.2 Aprender sobre el gobierno de los datos.md",
-    "3. Aprende análisis de datos/3.4 Empezar un proyecto de datos/3.4.1 Comenzar con las mejores prácticsa de datos.md"
+    "3. Aprende análisis de datos (Power BI & Excel)/3.2 Fundamentos de la comprensión de datos/3.2.1 Aprender a identificar los datos.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.1 Entender las reglas de negocio.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.4 Construir conjuntos de datos para filtrar datos.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 Reutilizar Datos.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md",
+    "3. Aprende análisis de datos (Power BI & Excel)/3.4 Empezar un proyecto de datos/3.4.3 Entender verdades o certezas.md"
   ]
 }
