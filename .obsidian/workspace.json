@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.2 La programación en la ciencia de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.2 La programación en la ciencia de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.2 La programación en la ciencia de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md"
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.2 La programación en la ciencia de datos.md"
               }
             }
           }
@@ -202,10 +202,10 @@
   },
   "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
+    "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
     "images/Pasted image 20240115022141.png",
     "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.3 La estadísitca en la ciencia de datos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.2 La programación en la ciencia de datos.md",
-    "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos",
     "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.3 El proceo de un proyecto de ciencia de datos.md",
@@ -235,7 +235,6 @@
     "3. Aprende análisis de datos (Power BI & Excel)/3.8 Tablas dinámicas/3.8.1 Construir tablas dinámicas básicas.md",
     "images/Pasted image 20240103222044.png",
     "images/Pasted image 20240103221713.png",
-    "images/Pasted image 20240103221520.png",
     "3. Aprende análisis de datos (Power BI & Excel)/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
