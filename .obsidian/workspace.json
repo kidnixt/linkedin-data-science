@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.3 El proceo de un proyecto de ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.3 El proceo de un proyecto de ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.3 El proceo de un proyecto de ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.3 El proceo de un proyecto de ciencia de datos.md"
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md"
               }
             }
           }
@@ -202,12 +202,17 @@
   },
   "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
-    "images/Pasted image 20240103182336.png",
+    "images/Pasted image 20240115022141.png",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.3 La estadísitca en la ciencia de datos.md",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.2 La programación en la ciencia de datos.md",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos/5.3.1 Big data en la ciencia de datos.md",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.3 Los ámbitos de estudio de la ciencia de datos",
     "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.3 El proceo de un proyecto de ciencia de datos.md",
+    "images/Pasted image 20240103182336.png",
     "images/Pasted image 20240106141825.png",
     "images/Pasted image 20240106030602.png",
     "README.md",
-    "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos/5.2.2 El diagrama de Venn en la ciencia de datos.md",
     "images/Pasted image 20240103235025.png",
     "5. Fundamentos de Data Science, Conceptos básicos/5.2 Qué es la ciencia de datos",
     "5. Fundamentos de Data Science, Conceptos básicos",
@@ -222,7 +227,6 @@
     "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio",
     "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.1 Transformar datos con Excel.md",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/E073D920",
-    "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.1 ejercicio/~$Accesos_directos y Rangos_con_nombre_Inicio.xlsx",
     "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.4 Transponer datos de una tabla.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.8 Tablas dinámicas/3.8.3 Construir tablas dinámicas con segmentadores.md",
     "images/Pasted image 20240103232541.png",
@@ -234,7 +238,6 @@
     "images/Pasted image 20240103221520.png",
     "3. Aprende análisis de datos (Power BI & Excel)/3.7 La importancia de los gráficos de datos para un analista/3.7.2 Vinculación vs incrustación de gráficos y datos.md",
     "3. Aprende análisis de datos/3.7 La importancia de los gráficos de datos para un analista/3.7.3 Configurar gráficos, crear temas y plantillas.md",
-    "images/Pasted image 20240103210906.png",
     "3. Aprende análisis de datos (Power BI & Excel)/3.7 La importancia de los gráficos de datos para un analista/3.7.1 Crear visualizaciones básicas.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.4 Crear documentación sobre el proceso de análisis.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.3 Crear un archivo Léeme.md",
@@ -244,9 +247,6 @@
     "3. Aprende análisis de datos (Power BI & Excel)/3.2 Fundamentos de la comprensión de datos/3.2.1 Aprender a identificar los datos.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.6 Trabajar con datos de empresa/3.6.1 Entender las reglas de negocio.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.4 Construir conjuntos de datos para filtrar datos.md",
-    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md",
-    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.2 Entender los datos en el origen.md",
-    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.1 Reutilizar Datos.md",
-    "3. Aprende análisis de datos (Power BI & Excel)/3.4 Empezar un proyecto de datos/3.4.4 Descubrir errores comunes de los principiantes.md"
+    "3. Aprende análisis de datos (Power BI & Excel)/3.5 Reutilizar datos frente a remanufacturar datos/3.5.3 Crear datos reutilizables.md"
   ]
 }
