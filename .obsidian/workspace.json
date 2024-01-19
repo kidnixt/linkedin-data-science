@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.1 Los gráficos exploratorios.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.2 La estadística exploratoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.1 Los gráficos exploratorios.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.2 La estadística exploratoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.1 Los gráficos exploratorios.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.2 La estadística exploratoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.1 Los gráficos exploratorios.md"
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.2 La estadística exploratoria.md"
               }
             }
           }
@@ -202,8 +202,8 @@
   },
   "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
-    "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.2 La estadística exploratoria.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.1 Los gráficos exploratorios.md",
+    "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos/5.6.2 La estadística exploratoria.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.5 Crear datos para utilizar en tus proyectos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.6 La exploración de los datos",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.4 La técnica de screen scraping para extraer datos.md",
