@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 Las API en la ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.4 La técnica de screen scraping para extraer datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 Las API en la ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.4 La técnica de screen scraping para extraer datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 Las API en la ciencia de datos.md",
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.4 La técnica de screen scraping para extraer datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 Las API en la ciencia de datos.md"
+                "file": "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.4 La técnica de screen scraping para extraer datos.md"
               }
             }
           }
@@ -202,6 +202,7 @@
   },
   "active": "c3e406b3bd1d0426",
   "lastOpenFiles": [
+    "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 Las API en la ciencia de datos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 ejercicio API.R",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/API.R",
     "images/Pasted image 20240119200809.png",
@@ -209,7 +210,6 @@
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.1 La medición en ciencia de datos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.5 Crear datos para utilizar en tus proyectos.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.4 La técnica de screen scraping para extraer datos.md",
-    "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos/5.5.3 Las API en la ciencia de datos.md",
     "3. Aprende análisis de datos (Power BI & Excel)/3.2 Fundamentos de la comprensión de datos/3.2.5 Crear nuevas columnas de datos con Power BI.md",
     "5. Fundamentos de Data Science, Conceptos básicos/5.5 Fuentes de datos en la ciencia de datos",
     "3. Aprende análisis de datos (Power BI & Excel)/3.2 Fundamentos de la comprensión de datos/3.2.4 Aprender la sintaxis para mejorar la comunicación.md",
@@ -245,7 +245,6 @@
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio/Extraer y Dividir texto_Inicio.pbix",
     "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.3 ejercicio",
     "3. Aprende análisis de datos/3.9 Trucos para análisis de datos con Excel/New folder",
-    "3. Aprende análisis de datos (Power BI & Excel)/3.9 Trucos para análisis de datos con Excel/3.9.2 ejercicio/Extraer y Dividir texto_Inicio.pbix",
     "images/Pasted image 20240103232541.png",
     "images/Pasted image 20240103231230.png"
   ]
